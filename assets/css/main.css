@@ -1,0 +1,9 @@
+body {
+    background-image: url('assets/images/under_construction-001.jpg');
+    background-size: 1vw 1vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #ffd401;
+    min-height: 100%;
+}
