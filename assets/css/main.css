@@ -1,9 +1,12 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
 body {
-    background-image: url('assets/images/under_construction-001.jpg');
-    background-size: 1vw 1vh;
+    background-image: url("../images/under_construction-001.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     background-color: #ffd401;
-    min-height: 100%;
+    background-size: 100% 100%;
 }
